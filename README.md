@@ -154,8 +154,8 @@ Este projeto está sob a licença MIT - veja o arquivo LICENSE para mais detalhe
 ## Autor
 
 👩‍💻 **Seu Nome**
-- Email: seuemail@dominio.com
-- GitHub: [seu_usuario](https://github.com/nayarasobral)
+- Email: nayysobrall@gmail.com
+- GitHub: nayarasobral
 
 Sinta-se à vontade para dar feedback ou contribuir! 🌟
 
